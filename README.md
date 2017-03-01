@@ -1,0 +1,2 @@
+# stringz
+c string library
